@@ -4,6 +4,8 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
+Example of a pull request in github
+
 PROJECT TITLE: 2 player hangman
 PURPOSE OF PROJECT:
 VERSION or DATE:1.9.9 
