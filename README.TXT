@@ -8,7 +8,7 @@ PROJECT TITLE: 2 player hangman
 PURPOSE OF PROJECT:
 VERSION or DATE:1.9.9 
 HOW TO START THIS PROJECT:
-IMPORTANT NOTICE--> some comment code is to be ignored as it is for extra credit and not complete
+IMPORTANT NOTICE--> some comment code is to be ignored as it is for extra credit and not complete.
 AUTHORS: John Ghantous
 -------------------------
 Pseudocode and Timeline
